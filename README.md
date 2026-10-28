@@ -17,7 +17,7 @@ AI Risk Assessment and Management
 
 NIST AI Risk Management Framework (AI RMF)
 
-ISO/IEC 42001 — AI Management Systems
+ISO/IEC 42001  AI Management Systems
 
 Cybersecurity Governance, Risk, and Compliance
 
