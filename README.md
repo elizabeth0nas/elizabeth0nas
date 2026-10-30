@@ -50,7 +50,7 @@ AI should support decision-making, not replace authorized human judgment for con
 
 Professional Interests
 
-AI Governance 
+- AI Governance 
 - Responsible AI 
 - Cybersecurity GRC
 - AI Risk Management 
