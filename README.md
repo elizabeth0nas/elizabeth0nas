@@ -1,6 +1,6 @@
-Elizabeth Onasoga
+**Elizabeth Onasoga**
 
-AI Governance | Cybersecurity GRC | Responsible AI
+AI Governance | Cybersecurity GRC | Responsible AI | AI Risk
 
 Turning AI governance frameworks into practical, risk-driven solutions.
 
@@ -12,20 +12,13 @@ I am building this portfolio to demonstrate how I approach AI risks, support res
 and help organizations establish effective governance and accountability.
 
 Areas of Focus
-
-AI Risk Assessment and Management
-
-NIST AI Risk Management Framework (AI RMF)
-
-ISO/IEC 42001  AI Management Systems
-
-Cybersecurity Governance, Risk, and Compliance
-
-AI Vendor and Third-Party Risk
-
-Responsible AI Evaluation and Human Oversight
-
-Control Assessment, Audit Readiness, and Remediation
+- AI Risk Assessment and Management
+- NIST AI Risk Management Framework (AI RMF)
+- ISO/IEC 42001  AI Management Systems
+- Cybersecurity Governance, Risk, and Compliance
+- AI Vendor and Third-Party Risk
+- Responsible AI Evaluation and Human Oversight
+- Control Assessment, Audit Readiness, and Remediation
 
 Featured Projects
 
@@ -57,14 +50,16 @@ AI should support decision-making, not replace authorized human judgment for con
 
 Professional Interests
 
-AI Governance | Responsible AI | Cybersecurity GRC | AI Risk Management | Compliance Program Development
+AI Governance 
+- Responsible AI 
+- Cybersecurity GRC
+- AI Risk Management 
+- Compliance Program Development
 
 Connect With Me
-
 LinkedIn: https://www.linkedin.com/in/elizabethonas/
-
 GitHub: Explore my repositories to see my approach to AI governance and GRC use cases.
 
-Portfolio projects are simulated professional case studies unless explicitly stated otherwise.
+**Portfolio projects are simulated professional case studies unless explicitly stated otherwise.**
 They are intended to demonstrate methodology and professional judgment, not to claim certification, independent assurance, 
 or production implementation.
